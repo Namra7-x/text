@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "bin": {
     "text": "index.js"
-  }
+  },
+  "files": [
+    "index.js",
+    "data.txt"
+  ]
 }
