@@ -8,7 +8,6 @@ const content = fs.readFileSync(
   "utf8"
 );
 
-// create file in current folder
 fs.writeFileSync("data.txt", content);
 
 console.log("✅ data.txt created");
